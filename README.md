@@ -28,10 +28,13 @@ Make sure you have Node.js and npm installed on your machine.
    ```bash
    git clone https://github.com/Pankajkantghz/Blockchain_v2.git
 2. Navigate to the project directory:
-   cd Blockchain_v2
+    ```bash
+    cd Blockchain_v2
 3. Install the required dependencies:
+   ```bash
    npm install
-4. Run the application:
+5. Run the application:
+   ```bash
    npm run dev
 
 ### Usage
